@@ -1,1 +1,1 @@
-# ai-tool-finder-legal
+# ai-tool-finder-docs
